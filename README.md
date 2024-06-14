@@ -1,4 +1,4 @@
-### cybCTF
+# cybCTF
 
 This repo contains the writeup for cybCTF
 
