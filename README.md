@@ -6,7 +6,7 @@ The link to the CTF: [cybCTF](https://drive.google.com/drive/folders/1IpcgmPOl8T
 
 The CTF challenges were created by: [7theory](https://x.com/Paul__ige) &[Hackyou](https://x.com/0xMarkUche)
 
-### Ctypo
+### CRYPPTOGRAOHY
 1. Atbash
 2. Easy-13
 3. Easy-RSA
