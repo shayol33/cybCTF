@@ -41,7 +41,7 @@ PCAP
 3. Checker
 4. Debug pain
 5. Hello
-6. cybCYF.tar,gz
+6. cybCYF.tar.gz
 
 ## STEGANOGRAPHY
 1. lost message
