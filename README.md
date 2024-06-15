@@ -7,13 +7,12 @@ The link to the CTF: [cybCTF](https://drive.google.com/drive/folders/1IpcgmPOl8T
 The CTF challenges were created by: [7theory](https://x.com/Paul__ige) &[Hackyou](https://x.com/0xMarkUche)
 
 ### CRYPPTOGRAOHY
-1. Atbash
-2. Easy-13
-3. Easy-RSA
-4. It's Fine
-5. Mind your Ps and Qs
-6. Secured Crypto
-7. weied-stuff
+1. Easy-13
+2. Easy-RSA
+3. It's Fine
+4. Mind your Ps and Qs
+5. Secured Crypto
+6. weied-stuff
 
 ## FORENSICS
 1. Damaged1
