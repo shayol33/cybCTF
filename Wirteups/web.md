@@ -15,3 +15,6 @@ The robots.txt file is a standard used by websites to communicate with web crawl
 ![image](https://github.com/shayol33/cybCTF/blob/main/Aessts/robots1.png)
 
 ```Flag:cybCTF{r0b0t5_r0b0t5_r0b0t5}```
+
+##LFI
+<hr>
