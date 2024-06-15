@@ -84,3 +84,6 @@ Part4: From BAse64
 
 ```Flag:cybCTF{0ne_tw0_f0ur_eight_sixt33n_th1rtytw0_s1xtyf0ur_no_m0re}```
 
+## Secured Crypto
+<hr>
+
