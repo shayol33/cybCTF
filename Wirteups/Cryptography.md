@@ -31,4 +31,14 @@ Just a quick warm-up cipher for everyone. Honestly, I think it's "a fine" cipher
 
 This is a Affine cipher. i copied it and pasted it on an onlie chipher indentifier [decode.fr](https://www.dcode.fr/cipher-identifier) to be sure of what kind of cipher it is.
 
+![image](https://github.com/shayol33/cybCTF/blob/main/Aessts/it's-fine.png)
+
+After checking up on all the suggested cipher, I found out that it was a Affine cipher. so i was correct
+
+I decoded the the cipher using the same tool https://www.dcode.fr/affine-cipher
+
+![image](https://github.com/shayol33/cybCTF/blob/main/Aessts/it's-fine1.png)
+
+```Flag: cybCTF{1t_b3g1n5} ```
+
 
