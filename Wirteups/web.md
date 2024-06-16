@@ -21,6 +21,12 @@ The robots.txt file is a standard used by websites to communicate with web crawl
 
 IP: 20.124.85.189
 
-I visited the page
+I visited the page and notied that i was supposed to navigate to another directory "/lfi"
 
 ![image](https://github.com/shayol33/cybCTF/blob/main/Aessts/lfi.png)
+
+I navigated to the lfi directory and ?page parameter and noticed that it was requesting home.php
+
+The url takes a fileame parameter
+
+![image](https://github.com/shayol33/cybCTF/blob/main/Aessts/lfi-1.png)
