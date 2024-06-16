@@ -7,12 +7,12 @@ The link to the CTF: [cybCTF](https://drive.google.com/drive/folders/1IpcgmPOl8T
 The CTF challenges were created by: [7theory](https://x.com/Paul__ige) &[Hackyou](https://x.com/0xMarkUche)
 
 ### CRYPPTOGRAOHY
-1. Easy-13
-2. Easy-RSA
-3. It's Fine
-4. Mind your Ps and Qs
-5. Secured Crypto
-6. weied-stuff
+1. [Easy-13](https://github.com/shayol33/cybCTF/blob/main/Wirteups/Cryptography.md)
+2. [Easy-RSA](https://github.com/shayol33/cybCTF/blob/main/Wirteups/Cryptography.md)
+3. [It's Fine](https://github.com/shayol33/cybCTF/blob/main/Wirteups/Cryptography.md)
+4. [Mind your Ps and Qs](https://github.com/shayol33/cybCTF/blob/main/Wirteups/Cryptography.md)
+5. [Secured Crypto](https://github.com/shayol33/cybCTF/blob/main/Wirteups/Cryptography.md)
+6. [weied-stuff](https://github.com/shayol33/cybCTF/blob/main/Wirteups/Cryptography.md)
 
 ## FORENSICS
 1. Damaged1
@@ -48,5 +48,5 @@ PCAP
 3. Steg2
 
 ## WEB
-1. Robots
-2. LFI
+1. [Robots](https://github.com/shayol33/cybCTF/blob/main/Wirteups/web.md)
+2. [LFI](https://github.com/shayol33/cybCTF/blob/main/Wirteups/web.md)
