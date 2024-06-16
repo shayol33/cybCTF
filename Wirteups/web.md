@@ -16,5 +16,11 @@ The robots.txt file is a standard used by websites to communicate with web crawl
 
 ```Flag:cybCTF{r0b0t5_r0b0t5_r0b0t5}```
 
-##LFI
+## LFI
 <hr>
+
+IP: 20.124.85.189
+
+I visited the page
+
+![image](https://github.com/shayol33/cybCTF/blob/main/Aessts/lfi.png)
