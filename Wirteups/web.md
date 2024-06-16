@@ -27,6 +27,21 @@ I visited the page and notied that i was supposed to navigate to another directo
 
 I navigated to the lfi directory and ?page parameter and noticed that it was requesting home.php
 
-The url takes a fileame parameter
+The url takes a fileame parameter and returns the contents of the specified file.
 
 ![image](https://github.com/shayol33/cybCTF/blob/main/Aessts/lfi-1.png)
+
+SInce our flag is in flag.txt, i edited the url from
+
+```
+http://20.124.85.189/lfi/?page=home.php
+
+              TO
+
+http://20.124.85.189/lfi/?page=home.php
+```
+![image](https://github.com/shayol33/cybCTF/blob/main/Aessts/lfi-2.png)
+
+```
+Flag: cybCTF{this_is_the_lfi_flag}
+```
