@@ -4,7 +4,7 @@ This repo contains the writeup for cybCTF
 
 The link to the CTF: [cybCTF](https://drive.google.com/drive/folders/1IpcgmPOl8TsOMivQbm7-KKZVAgQIT1Db?usp=sharing)
 
-The CTF challenges were created by: [7theory](https://x.com/Paul__ige) &[Hackyou](https://x.com/0xMarkUche)
+The CTF challenges were created by: [7theory](https://x.com/Paul__ige), [Hackyou](https://x.com/0xMarkUche) & [sh4yol33](https://x.com/3h4yo)
 
 ### CRYPPTOGRAOHY
 1. [Easy-13](https://github.com/shayol33/cybCTF/blob/main/Wirteups/Cryptography.md)
